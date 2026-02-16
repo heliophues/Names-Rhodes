@@ -9,7 +9,7 @@
 
 main:
   - title: "Publicaciones"
-    url: /publications/
+    url: https://heliophues.github.io/Names-Rhodes/publications/
 
   - title: "Comunicaciones"
     url: /talks/    
