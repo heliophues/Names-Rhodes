@@ -1,9 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "I.Rhodische Peraia 502 y los nombres griegos en Δωρι-"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'En este artículo analizamos la serie de antropónimos griegos con primer elemento Δωρι-'
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
