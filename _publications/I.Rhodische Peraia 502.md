@@ -2,13 +2,13 @@
 title: "I.Rhodische Peraia 502 y los nombres griegos en Δωρι-"
 collection: publications
 category: manuscripts
-permalink: /publication/Pacheco-Ascuy (2024) I.Rhodische Peraia 502
+permalink: /publication/Pacheco-Ascuy-2024-I.Rhodische Peraia 502
 excerpt: 'En este artículo analizamos la serie de antropónimos griegos con primer elemento Δωρι-'
-date: 2009-10-01
+date: 2024
 venue: 'Zeitschrift für Papyrologie und Epigraphik'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Pacheco Ascuy, J. (2024). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
