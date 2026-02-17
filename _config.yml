@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "C:\Users\Usuario\OneDrive - Universidad de Salamanca\Desktop\Cositas\Fotos Mérida\Foto Mérida.jpg"
+  avatar           : "Foto Mérida.jpg"
   name             : "Jeremy Pacheco Ascuy"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
