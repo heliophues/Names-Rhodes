@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Pacheco-Ascuy (2024) I.Rhodische Peraia 502
 excerpt: 'En este artículo analizamos la serie de antropónimos griegos con primer elemento Δωρι-'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'Zeitschrift für Papyrologie und Epigraphik'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
