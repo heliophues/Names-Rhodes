@@ -2,7 +2,7 @@
 title: "I.Rhodische Peraia 502 y los nombres griegos en Δωρι-"
 collection: publications
 category: manuscripts
-permalink: /publication/Pacheco-Ascuy-2024-I.Rhodische Peraia 502
+permalink: /publication/title
 excerpt: 'En este artículo analizamos la serie de antropónimos griegos con primer elemento Δωρι-'
 date: 2024-01-01
 venue: 'Zeitschrift für Papyrologie und Epigraphik'
